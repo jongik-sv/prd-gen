@@ -143,3 +143,8 @@ blocks/02-portal/
 출력: blocks/03-backend/
 카테고리: 01-api-gateway, 02-auth, 03-database, ...
 ```
+
+
+
+
+'./토의/brainstorming-part3-auth.md' 각 테이블에 대해 선분이력을 가지는 로그 테이블 추가에 대한 토의를 하고 새로 추가된 토의 내용을 './summary/brainstorming-part3-auth-summary.md'에 추가해줘. 
